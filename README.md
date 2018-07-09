@@ -1,4 +1,4 @@
-# Multi-facility-Weber-Problem-
+# Multi-facility-Weber-Problem
 Solving the multi-facility Weber Problem with unit demand using k-means algorithm and Variable Neighborhood Search
 
 In this homework, you are going to solve the multi-facility Weber problem with unit demand, i.e., all the customers have unit demand. The data set is called p654 and the 654 customer locations are provided on the web page http://mistic.heig-vd.ch/taillard/problemes.dir/mwp.dir/p654.txt. The data set includes the x-coordinates and y-coordinates of customers. The distances between customer locations are measured via Euclidean distance. You can also find the optimal value on the same page. <br>
